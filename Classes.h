@@ -4,7 +4,7 @@
 typedef class fly_object
 {
 private:
-	//тут что=то приватное
+	coordinates coot; //надо будет создать класс координат
 public:
 	//тут публичная баня
 
