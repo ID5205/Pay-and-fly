@@ -1,7 +1,6 @@
 #ifndef COORDINATE
 #define COORDINATE
 
-
 class Coordinate
 {
 	float x;
