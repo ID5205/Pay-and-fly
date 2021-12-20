@@ -8,7 +8,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     ui->tableWidget->setRowCount(10); //строки
-    ui->tableWidget->setColumnCount(4);//столбцыrder: 2px outset red;: 2px outset red;""
+    ui->tableWidget->setColumnCount(4);//столбцы
 
     ui->tableWidget->setEditTriggers(QAbstractItemView::NoEditTriggers);
 
