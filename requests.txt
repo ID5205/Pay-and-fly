@@ -1,0 +1,10 @@
+
+141189 1 0.5 0.5 35 Syktyvkar Uhta
+235289 1 0.5 0.5 50 Perm Uhta
+296235 1 0.5 0.1 10 Murmansk Perm
+389335 1 1 1 200 Uhta Perm
+341335 1 0.5 0.5 50 Syktyvkar Perm
+496441 1 0.5 0.1 10 Murmansk Syktyvkar
+496435 1 0.5 0.5 50 Murmansk Perm
+496452 1 1 1 200 Murmansk Saint-Petersburg
+496489 1 0.5 0.5 50 Murmansk Uhta
