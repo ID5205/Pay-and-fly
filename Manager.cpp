@@ -9,7 +9,7 @@
 #include <QTextStream>
 #include <QList>
 #include <cmath>            //для рассчета расстояния
-
+//активно кодю
 Manager::Manager()
 {
     map.load_map("map.txt");
