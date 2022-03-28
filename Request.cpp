@@ -2,7 +2,7 @@
 #include "Product.h"
 #include <cstring>
 #include <stdio.h>
-
+///типа что-то изменил
     Request::Request()
     {
         start_name = 0;
