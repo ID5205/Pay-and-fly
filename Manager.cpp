@@ -10,6 +10,7 @@
 #include <QList>
 #include <cmath>            //для рассчета расстояния
 //активно кодю
+//еще активней кодю
 Manager::Manager()
 {
     map.load_map("map.txt");
